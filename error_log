@@ -1,0 +1,28 @@
+[07-Jul-2023 14:22:22 UTC] PHP Warning:  include(baglan.php): failed to open stream: No such file or directory in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 12
+[07-Jul-2023 14:22:22 UTC] PHP Warning:  include(baglan.php): failed to open stream: No such file or directory in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 12
+[07-Jul-2023 14:22:22 UTC] PHP Warning:  include(): Failed opening 'baglan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 12
+[07-Jul-2023 14:22:22 UTC] PHP Notice:  Undefined variable: db in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 19
+[07-Jul-2023 14:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/faithproject/public_html/admin/withoutSendPolicy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 19
+[07-Jul-2023 14:23:16 UTC] PHP Notice:  Undefined index: policy_id in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 20
+[07-Jul-2023 14:23:16 UTC] PHP Notice:  Undefined index: policy_id in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 28
+[07-Jul-2023 14:23:16 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 178
+[07-Jul-2023 14:23:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 178
+[07-Jul-2023 14:23:17 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 227
+[07-Jul-2023 14:23:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 227
+[07-Jul-2023 14:23:17 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 245
+[07-Jul-2023 14:23:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 245
+[07-Jul-2023 14:23:17 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 260
+[07-Jul-2023 14:23:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 260
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Undefined index: policy_id in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 20
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Undefined index: policy_id in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 28
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 178
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 178
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 227
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 227
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 245
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 245
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Undefined variable: kullanicicek in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 260
+[07-Jul-2023 14:35:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/faithproject/public_html/admin/withoutSendPolicy.php on line 260

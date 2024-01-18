@@ -1,0 +1,22 @@
+dashboard
+
+sayfa yönetimi
+
+project
+    project details
+    file manager
+
+blog
+    bloglist
+    addblog
+    
+
+personal
+    tasks
+    calender
+    email
+    chat
+
+kurumsal
+    site iletişim
+    inovice 
